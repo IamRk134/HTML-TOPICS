@@ -5,7 +5,7 @@ These elements are essential for navigation and visual content on web pages.
 
 ## File Included
 
-- `03-links-and-images.html`  
+- `03-links-images.html`  
   Demonstrates different types of links and image usage in HTML.
 
 ## HTML Links

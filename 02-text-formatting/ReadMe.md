@@ -19,12 +19,9 @@ The following types of text formatting are included:
 - Small text
 - Deleted and inserted text
 - Subscript and superscript
-- Code, keyboard input, and sample output
-- Variables
 - Preformatted text
 - Blockquotes and inline quotations
 - Abbreviations and citations
-- Bi-directional text
 - Span element
 - Line breaks and horizontal rules
 
